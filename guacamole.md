@@ -6,4 +6,6 @@
 * Salt
 * Tomato
 * Chili
+* Sugar 
+
 ## Instructions
