@@ -5,4 +5,5 @@
 * Lime
 * Salt
 * Tomato
+* Chili
 ## Instructions
