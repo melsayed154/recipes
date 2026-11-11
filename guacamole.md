@@ -7,5 +7,6 @@
 * Tomato
 * Chili
 * Sugar 
+*Cumin
 
 ## Instructions
